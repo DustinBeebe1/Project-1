@@ -76,7 +76,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-
+https://github.com/DustinBeebe1/Project-1/blob/main/Diagrams/Elk%20container.PNG
  
 
 

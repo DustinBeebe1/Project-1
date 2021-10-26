@@ -28,7 +28,7 @@ This document contains the following details:
 The main purpose of this network is to expose a load-balanced and monitored instance of DVWA, the D*mn Vulnerable Web Application.
 
 Load balancing ensures that the application will be highly available, in addition to restricting access to the network.
-- _TODO: Load balancing ensure availability to the webservers which is the availability part of the CIA triad. 
+ 
 What is the advantage of a jump box? The advantage is having a single origin point for admin tasks. 
 
 Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the logs and system traffic.

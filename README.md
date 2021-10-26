@@ -8,10 +8,10 @@ https://github.com/DustinBeebe1/Project-1/issues
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat.
 
-  -https://github.com/DustinBeebe1/Project-1/blob/main/Ansible/pentest.yml.txt
-  -https://github.com/DustinBeebe1/Project-1/blob/main/Ansible/install-elk.yml.txt
-  -https://github.com/DustinBeebe1/Project-1/blob/main/Ansible/filebeat-playbook.yml.txt
-  -https://github.com/DustinBeebe1/Project-1/blob/main/Ansible/metricbeat-playbook.yml.txt
+  https://github.com/DustinBeebe1/Project-1/blob/main/Ansible/pentest.yml.txt
+  https://github.com/DustinBeebe1/Project-1/blob/main/Ansible/install-elk.yml.txt
+  https://github.com/DustinBeebe1/Project-1/blob/main/Ansible/filebeat-playbook.yml.txt
+  https://github.com/DustinBeebe1/Project-1/blob/main/Ansible/metricbeat-playbook.yml.txt
   
 
 This document contains the following details:

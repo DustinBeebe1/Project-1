@@ -76,7 +76,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-
+https://github.com/DustinBeebe1/Project-1/blob/main/Diagrams/Elk%20container.PNG
  
 
 
@@ -102,11 +102,18 @@ SSH into the control node and follow the steps below:
 - Run the playbook, and navigate to ELK-Server-PublicIP:5601/app/kabana to check that the installation worked as expected.
 
 - Which file is the playbook? 
+
 -elk-playbook.yml - used to install the ELK server.
-- filebeat-playbook.yml - used to install and configure Filebeat on the ELK and webservers.
+-filebeat-playbook.yml - used to install and configure Filebeat on the ELK and webservers.
 -metricbeat-playbook.yml - used to install and configure Metric beat on the ELK server and webservers.
+
 Where do you copy it? /etc/ansible
+
 - Which file do you update to make Ansible run the playbook on a specific machine? /ect/ansible/hosts.cfg 
-How do I specify which machine to install the ELK server on versus which to install Filebeat on? In the hosts file you enter the IPs of the servers that you want to install the playbooks on.
-- _Which URL do you navigate to in order to check that the ELK server is running?
+
+How do I specify which machine to install the ELK server on versus which to install Filebeat on? 
+
+In the hosts file you enter the IPs of the servers that you want to install the playbooks on.
+
+- Which URL do you navigate to in order to check that the ELK server is running?
 http://(elkserverIP):5601
